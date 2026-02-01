@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Bio-photo_BH.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Bio-photo_BH.jpg"
+  name             : "Bo-Han (John) Wu"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Honolulu, HI"
