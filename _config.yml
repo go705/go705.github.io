@@ -29,7 +29,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Honolulu, HI"
   employer         : "University of Hawaii at Manoʻa"
-  uri              : "https://ece.hawaii.edu/home/"
+  uri              : #"https://ece.hawaii.edu/home/"
   email            : "bohanwu@hawaii.edu" 
 
   # Academic websites
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
