@@ -2,7 +2,7 @@
 title: "Introduction of Quantum Information Science 693D/491D"
 collection: teaching
 permalink: /teaching/qis
-venue: "University of Hawaii at Manoʻa, Electrical and Computer Engineering"
+venue: "UHM, ECE"
 date: 2025-08-21
 location: "Honolulu, HI"
 ---
