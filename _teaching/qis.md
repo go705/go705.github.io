@@ -4,7 +4,6 @@ collection: teaching
 type: Course
 permalink: /teaching/qis
 venue: "UHM, ECE"
-date: 2025-08-21
 location: "Honolulu, HI"
 excerpt: " "
 ---
