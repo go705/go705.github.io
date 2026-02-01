@@ -2,7 +2,7 @@
 title: "Introduction of Quantum Information Science 693D/491D"
 collection: teaching
 type: "Graduate course"
-permalink: #/teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "Electrical and Computer Engineering"
 date: 2025 Fall, 2026 Spring
 location: "Honolulu, HI"
