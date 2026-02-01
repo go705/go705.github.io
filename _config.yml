@@ -24,12 +24,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Bio-photo_BH.jpg"
-  name             : "Bo-Han (John) Wu"
-  pronouns         : "he/him" # example: "she/her"  
+  name             : "Bo-Han Wu"
+  pronouns         : "He/Him/His" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Honolulu, HI"
   employer         : "University of Hawaii at Manoʻa"
-  uri              : # URL
+  uri              : "https://ece.hawaii.edu/home/"
   email            : "bohanwu@hawaii.edu" 
 
   # Academic websites
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=_8D8iHAAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1475-1262"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/bo-han-wu-282a35116/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
