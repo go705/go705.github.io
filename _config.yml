@@ -223,7 +223,7 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /teaching/qis
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
