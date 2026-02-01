@@ -1,5 +1,5 @@
 ---
-title: "Introduction of Quantum Information Science 693D/491D"
+title: "693D/491D: Introduction of Quantum Information Science"
 collection: teaching
 permalink: /teaching/qis
 venue: "UHM, ECE"
