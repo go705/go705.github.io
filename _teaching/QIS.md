@@ -1,6 +1,7 @@
 ---
 title: "693D/491D: Introduction of Quantum Information Science"
 collection: teaching
+type: course
 permalink: /teaching/qis
 venue: "UHM, ECE"
 date: 2025-08-21
