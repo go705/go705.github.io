@@ -12,7 +12,7 @@ Have you heard people talk about quantum computing and wondered what all the exc
 
 In this course, students will learn:
 
-Quantum information
+Basics of quantum information
 ======
 The core principles of quantum information science: qubits, pure state, mixed state, quantum coherence, entanglement, single- and two-qubit gate, quantum channels
 
@@ -24,7 +24,3 @@ Special topics
 ======
 Special topics: quantum error correction (e.g., Steane code) and continuous-variable quantum information (e.g., Gaussian state)
 A brief introduction of advanced quantum platforms: photonics, neutral-atom arrays, diamond color centers, superconducting circuits
-
-
-
-
