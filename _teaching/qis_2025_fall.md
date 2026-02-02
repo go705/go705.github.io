@@ -21,4 +21,4 @@ Implementing quantum algorithms to gain communication security (e.g., quantum ke
 ## Special topics
 Quantum error correction (e.g., Steane code) and continuous-variable quantum information (e.g., Gaussian state), state of the  brief introduction of advanced quantum platforms: photonics, neutral-atom arrays, diamond color centers, superconducting circuits
 
-<a href="/files/ECE_491D_693D_Syllabus.pdf" class="btn btn--info">Download Syllabus (PDF)</a>
+[Download Syllabus (PDF)](/files/ECE_491D_693D_Syllabus.pdf)
