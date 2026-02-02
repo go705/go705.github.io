@@ -6,7 +6,6 @@ permalink: /teaching/qis
 venue: "UHM, ECE"
 date: 2025-08-21
 location: "Honolulu, HI"
-excerpt: " "
 ---
 
 Have you heard people talk about quantum computing and wondered what all the excitement is about? In this course, you will discover how a qubit can hold information in ways that no classical bit can, and how quantum logic unlocks new forms of computation. We will explore the ideas that make quantum technologies powerful, including quantum states, gates, measurement, and the foundations needed to understand modern algorithms. You will also learn how today’s leading quantum platforms work, from photons to atoms to superconducting circuits. This course is designed for students who want a clear and rigorous introduction to quantum information science. By the end, you will be able to read current research, understand why quantum computing matters, and see how these ideas are shaping the future of technology. Join the course and start your journey into the quantum world.
