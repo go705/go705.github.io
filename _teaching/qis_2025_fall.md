@@ -1,5 +1,5 @@
 ---
-title: "693D/491D: Introduction of Quantum Information Science"
+title: "ECE693D/491D: Introduction of Quantum Information Science"
 collection: teaching
 type: Course
 permalink: /teaching/qis
