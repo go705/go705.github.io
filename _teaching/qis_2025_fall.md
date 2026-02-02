@@ -2,7 +2,7 @@
 title: "ECE693D/491D: Introduction to Quantum Information Science"
 collection: teaching
 type: Course
-permalink: /teaching/qis
+permalink: /teaching/qis/
 venue: "UHM, ECE"
 date: 2025-08-21
 location: "Honolulu, HI"
