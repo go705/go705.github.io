@@ -19,6 +19,10 @@ The core principles of quantum information science: qubits, pure state, mixed st
 Implementing quantum algorithms to gain communication security (e.g., quantum key distribution) and computational speedup (e.g., Quantum Fourier transform, Shor’s algorithm, Grover’s search)
 
 ## Special topics
-Quantum error correction (e.g., Steane code) and continuous-variable quantum information (e.g., Gaussian state), state of the brief introduction of advanced quantum platforms: photonics, neutral-atom arrays, diamond color centers, superconducting circuits
+* Quantum error correction (e.g., Steane code) and continuous-variable quantum information (e.g., Gaussian state)
+* A brief introduction of advanced quantum platforms: photonics, neutral-atom arrays, diamond color centers, superconducting circuits
 
-[Download Syllabus (PDF)](/files/ECE_491D_693D_Syllabus.pdf)
+---
+
+### Course Materials
+<a href="/files/ECE_491D_693D_Syllabus.pdf" target="_blank" class="btn btn--info">Download Syllabus (PDF)</a>
