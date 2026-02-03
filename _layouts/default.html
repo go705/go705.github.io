@@ -4,16 +4,6 @@ layout: compress
 
 {% include base_path %}
 
-<div style="width: 100%; position: relative; pointer-events: none; z-index: -1;">
-  <img src="/images/Group_image.jpeg" 
-       style="display: block; 
-              margin: 0 auto; 
-              width: 60%; 
-              opacity: 0.1; 
-              padding-top: 40px;">
-</div>
-
-
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
   <head>
@@ -39,3 +29,13 @@ layout: compress
 
   </body>
 </html>
+
+
+
+{% include masthead.html %}
+
+<div style="position: absolute; width: 100%; top: 80px; left: 0; pointer-events: none; z-index: 0; overflow: hidden;">
+  <img src="{{ '/images/Group_image.jpeg' | relative_url }}" 
+        style="display: block; 
+              margin: 0 auto; 
+              width: 70%; 
