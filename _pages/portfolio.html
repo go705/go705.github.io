@@ -8,7 +8,20 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% assign sorted_members = site.portfolio | sort: 'date' | reverse %}
+{% for member in sorted_members %}
+  <div class="list__item" style="margin-bottom: 3em; border-bottom: 1px solid #eee; padding-bottom: 2em;">
+    <h2 class="archive__item-title">{{ member.title }}</h2>
+    
+    {% if member.excerpt %}
+      <div class="archive__item-excerpt">
+        {{ member.excerpt }}
+      </div>
+    {% endif %}
+
+    <div class="member-content" style="margin-top: 20px;">
+      {{ member.content }}
+    </div>
+  </div>
 {% endfor %}
 
