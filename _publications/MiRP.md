@@ -7,7 +7,7 @@ excerpt: 'This paper introduces the micro-ring perceptron (MiRP) sensor, a physi
 date: 2025-04-19
 venue: 'arXiv:2504.16119'
 paperurl: 'https://arxiv.org/pdf/2504.16119.pdf'
-citation: 'Bo-Han Wu, Shi-Yuan Ma, Sri Krishna Vadlamani, Hyeongrak Choi, Dirk Englund. (2025). &quot; <i>arXiv preprint arXiv:2504.16119</i>.'
+citation: 'Bo-Han Wu, Shi-Yuan Ma, Sri Krishna Vadlamani, Hyeongrak Choi, Dirk Englund. (2025). <i>arXiv preprint arXiv:2504.16119</i>.'
 ---
 
 The micro-ring perceptron (MiRP) sensor overcomes the limitations of conventional RF sensing, such as detector noise and Nyquist rate sampling requirements. By embedding nonlinear optical dynamics into an end-to-end architecture, the MiRP sensor maps input signals into a learned feature space, enabling efficient classification of low-power signals even at 1/49 the Nyquist rate.
