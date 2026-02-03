@@ -11,6 +11,9 @@ main:
   - title: "About PI"
     url: /cv/
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Publications"
     url: /publications/
 
@@ -18,16 +21,16 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
     
-  - title: "Portfolio"
+  - title: "Team members"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Faith & Life"
     url: /year-archive/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
