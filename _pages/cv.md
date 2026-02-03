@@ -73,9 +73,25 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+{% comment %} 
+  Sort talks by date (latest first) and then group by title.
+{% endcomment %}
+{% assign sorted_talks = site.talks | sort: "date" | reverse %}
+{% assign talks_by_title = sorted_talks | group_by: "title" %}
+
+{% for group in talks_by_title %}
+  <div style="margin-bottom: 1.5em;">
+    <strong>{{ group.name }}</strong>
+    <ul style="list-style-type: none; margin-top: 5px; margin-left: 15px;">
+      {% assign group_items = group.items | sort: 'date' | reverse %}
+      {% for talk in group_items %}
+        <li style="font-size: 0.95em; margin-bottom: 5px;">
+          <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ talk.date | date: "%B %Y" }} — {{ talk.venue }}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endfor %}
   
 Teaching
 ======
