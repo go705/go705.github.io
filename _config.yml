@@ -6,10 +6,11 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Assistant professor"
+title                    : "Quantum-AI Laborator (QuAiL)"
 title_separator          : "-"
 name                     : &name "Bo-Han Wu"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +25,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Bio-photo_BH_1.jpeg"
-  name             : "Bo-Han Wu"
+  name             : "PI: Bo-Han Wu"
   pronouns         : "He/Him/His" # example: "she/her"  
   bio              : "I am a photonic quantum information scientist."
   location         : "Honolulu, HI"
