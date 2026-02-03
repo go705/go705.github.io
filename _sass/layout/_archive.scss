@@ -2,13 +2,26 @@
    ARCHIVE
    ========================================================================== */
 
+/* ==========================================================================
+   ARCHIVE
+   ========================================================================== */
+
 .page__title {
+  /* This overlay keeps the text readable: 0.8 is white, 0.2 is the image showing through */
   background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), 
                     url('/images/Group_image.jpeg');
-  background-size: cover;
-  background-position: center;
+  
+  /* POSITION: first value is horizontal (left/center/right), second is vertical */
+  /* Try 'right 20px center' to push it to the right side */
+  background-position: center; 
+  
+  /* SIZE: change 50% to make it smaller or larger. 'contain' makes it fit perfectly */
+  background-size: 50%; 
+  
+  background-repeat: no-repeat;
   padding: 2em;
   border-radius: 10px;
+  min-height: 150px; /* Ensures the panel is tall enough to show the image */
 }
 
 .archive {
