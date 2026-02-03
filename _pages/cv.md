@@ -20,6 +20,11 @@ Education
 
 Work experience
 ======
+* 2025-Present: Assistant Professor
+  * University of Hawaiʻi at Mānoa
+  * Department: ECE
+  * Research area: Quantum machine learning, quantum network, quantum optics
+
 * 2023-2025: Postdoctoral Research Associate
   * Massaschusetts Institute of Technology (MIT)
   * Department: EECS (Research Laboratory or Electronics)
