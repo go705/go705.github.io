@@ -84,10 +84,6 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
 
 
 [**Download CV as PDF**](https://go705.github.io/assets/files/AP_Bo-Han-Wu CV.pdf){: .btn .btn--info}
