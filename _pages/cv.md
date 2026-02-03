@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in The University of Arizona (USA), 2022
+* M.S. in National Tsing Hua University (Taiwan), 2014
+* B.S. in National Chiao Tung University (Taiwan), 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Postdoctoral Research Associate
+  * Massaschusetts Institute of Technology
+  * Department: EECS (Research Laboratory or Electronics)
+  * Research area: Optical neural network, quantum network, machine learning
+  * Supervisor: Dirk Englund
 
 * Fall 2015: Research Assistant
   * GitHub University

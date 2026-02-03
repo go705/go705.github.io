@@ -45,14 +45,14 @@
 /* --- Custom Profile Image Zoom --- */
 /* We target multiple possible selectors used by Academic Pages */
 
-.author__avatar, .sidebar .author__avatar {
-  overflow: hidden !important; 
-  display: block;
+.sidebar .author__avatar {
+  display: block !important;
+  overflow: hidden !important;
 }
 
-.author__avatar img, .author__avatar a img, .sidebar .author__avatar img {
-  transform: scale(1.3) !important;    /* Increased zoom */
-  object-position: center 15% !important; /* Focuses on your face */
+.sidebar .author__avatar img {
+  transform: scale(1.3) !important;       /* Your preferred zoom level */
+  transform-origin: center 20% !important; /* Adjusts the zoom focus toward your face */
   object-fit: cover !important;
-  transition: none !important; /* Disables animations during testing */
+  transition: all 0.2s ease-in-out; 
 }
