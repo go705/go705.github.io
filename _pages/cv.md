@@ -100,4 +100,4 @@ Teaching
   {% endfor %}</ul>
 
 
-[**Download CV as PDF**](https://go705.github.io/assets/files/AP_Bo-Han-Wu_CV.pdf){: .btn .btn--info}
+[**Download CV as PDF**](https://go705.github.io/files/AP_Bo-Han-Wu_CV.pdf){: .btn .btn--info}
