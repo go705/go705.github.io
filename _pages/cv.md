@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in The University of Arizona (USA), 2022
-* M.S. in National Tsing Hua University (Taiwan), 2014
-* B.S. in National Chiao Tung University (Taiwan), 2011
+* Ph.D in Physics (Minor: optical sciences)
+  * The University of Arizona (USA), 2022
+* M.S. in Physics
+  * National Tsing Hua University (Taiwan), 2014
+* B.S. in Electrophysics
+  * National Chiao Tung University (Taiwan), 2011
 
 Work experience
 ======
@@ -25,7 +28,7 @@ Work experience
 
 * Fall 2018: Research Assiociate
   * The University of Arizona
-  * Department: Physics (Minor: Optical sciences)
+  * Department: Materials Science and Engineering 
   * Research area: Continuous-variable Photonic Quantum Information Processing
   * Supervisor: Zheshen Zhang (University of Michigan)
 
