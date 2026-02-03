@@ -15,13 +15,13 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
     url: /teaching/  
     
   - title: "Team members"
-    url: /team/
+    url: /portfolio/
         
   - title: "Faith & Life"
     url: /year-archive/
