@@ -3,13 +3,12 @@
    ========================================================================== */
 
 .page__title {
-  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
+  background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), 
                     url('/images/Group_image.jpeg');
   background-size: cover;
   background-position: center;
   padding: 2em;
   border-radius: 10px;
-  min-height: 250px; /* This ensures a large chunk of the image is always visible */
 }
 
    
