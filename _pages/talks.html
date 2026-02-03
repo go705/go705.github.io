@@ -9,27 +9,34 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 {% endif %}
 
-{% comment %} Group all talks by their title string {% endcomment %}
-{% assign talks_by_title = site.talks | group_by: "title" %}
+{% comment %} 
+  1. Sort all talks by date
+  2. Reverse them so the latest date is first
+  3. Group them by title (this keeps the "latest" groups at the top)
+{% endcomment %}
+{% assign sorted_talks = site.talks | sort: "date" | reverse %}
+{% assign talks_by_title = sorted_talks | group_by: "title" %}
 
 {% for group in talks_by_title %}
   <div class="list__item" style="margin-bottom: 2em;">
-    {% comment %} Display the Shared Title once {% endcomment %}
-    <h2 class="archive__item-title" style="border-bottom: 1px solid #ccc; padding-bottom: 5px;">
+    <h2 class="archive__item-title" style="border-bottom: 1px solid #ccc; padding-bottom: 5px; margin-bottom: 15px;">
       {{ group.name }}
     </h2>
     
     <ul style="list-style-type: none; margin-left: 0;">
-      {% comment %} Sort items within the group by date descending {% endcomment %}
-      {% assign sorted_items = group.items | sort: 'date' | reverse %}
+      {% comment %} 
+        We sort the items inside the group again to be safe, 
+        ensuring the specific dates under the title are also Latest -> Earliest 
+      {% endcomment %}
+      {% assign group_items = group.items | sort: 'date' | reverse %}
       
-      {% for talk in sorted_items %}
-        <li style="margin-bottom: 1em;">
+      {% for talk in group_items %}
+        <li style="margin-bottom: 1.5em; list-style-type: none;">
           <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <strong>{{ talk.date | date: "%B %d, %Y" }}</strong> <br>
           <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ talk.venue }}, {{ talk.location }}
           
           {% if talk.excerpt %}
-            <div class="archive__item-excerpt" style="font-size: 0.9em; margin-top: 5px; color: #555;">
+            <div class="archive__item-excerpt" style="font-size: 0.95em; margin-top: 5px; color: #444; padding-left: 20px;">
               {{ talk.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
             </div>
           {% endif %}

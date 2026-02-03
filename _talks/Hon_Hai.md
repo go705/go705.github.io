@@ -1,5 +1,5 @@
 ---
-title: "Continuous-variable Photonic Quantum Informaion Processing"
+title: "Continuous-Variable Photonic Quantum Information Processing"
 collection: talks
 type: talks
 permalink: /talks/Hon_Hai
