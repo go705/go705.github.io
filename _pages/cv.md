@@ -20,19 +20,19 @@ Education
 
 Work experience
 ======
-* Spring 2023: Postdoctoral Research Associate
+* 2023-2025: Postdoctoral Research Associate
   * Massaschusetts Institute of Technology (MIT)
   * Department: EECS (Research Laboratory or Electronics)
   * Research area: Optical neural network, quantum network, machine learning
   * Supervisor: Dirk Englund (MIT)
 
-* Fall 2018: Research Assiociate
+* 2018-2022: Research Assiociate
   * The University of Arizona
   * Department: Materials Science and Engineering 
   * Research area: Continuous-variable Photonic Quantum Information Processing
   * Supervisor: Zheshen Zhang (University of Michigan)
 
-* Summer 2013: Research Assistant
+* 2012-2014: Research Assistant
   * National Tsing Hua University
   * Research area: Theoretical Atomic Physics
   * Supervisor: Ite Yu
