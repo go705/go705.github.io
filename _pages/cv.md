@@ -22,23 +22,30 @@ Work experience
 ======
 * 2025-Present: Assistant Professor
   * University of Hawaiʻi at Mānoa
-  * Department: ECE
+  * Department: Electrical and Computer Engineering
   * Research area: Quantum machine learning, quantum network, quantum optics
 
 * 2023-2025: Postdoctoral Research Associate
-  * Massaschusetts Institute of Technology (MIT)
-  * Department: EECS (Research Laboratory or Electronics)
+  * Massaschusetts Institute of Technology
+  * Department: Research Laboratory or Electronics
   * Research area: Optical neural network, quantum network, machine learning
-  * Supervisor: Dirk Englund (MIT)
+  * Supervisor: Dirk Englund
 
 * 2018-2022: Research Assiociate
   * The University of Arizona
-  * Department: Materials Science and Engineering 
+  * Department: Materials Science and Engineering
   * Research area: Continuous-variable Photonic Quantum Information Processing
-  * Supervisor: Zheshen Zhang (University of Michigan)
+  * Supervisor: Zheshen Zhang
+
+* 2012-2014: Research Assistant
+  * Academia Sinica
+  * Department: Institute of Atomic and Molecular Science
+  * Research area: Experiment and Theoretical Atomic Physics
+  * Supervisor: Ying-Cheng Chen
 
 * 2012-2014: Research Assistant
   * National Tsing Hua University
+  * Department: Physics
   * Research area: Theoretical Atomic Physics
   * Supervisor: Ite Yu
   
