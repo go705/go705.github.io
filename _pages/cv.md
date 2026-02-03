@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div style="float: right; margin: 0 0 20px 20px; width: 40%; max-width: 400px;">
-  <img src="/assets/images/Group_image.jpg" 
+  <img src="/assets/images/Group_image.png" 
        style="width: 100%; 
               filter: opacity(0.4) grayscale(20%); 
               mask-image: radial-gradient(circle, rgba(0,0,0,1) 30%, rgba(0,0,0,0) 100%);
