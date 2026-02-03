@@ -43,14 +43,16 @@
 ;
 
 /* --- Custom Profile Image Zoom --- */
+/* We target multiple possible selectors used by Academic Pages */
 
-.author__avatar {
-  overflow: hidden; /* Crops the image so it doesn't spill out of the sidebar */
+.author__avatar, .sidebar .author__avatar {
+  overflow: hidden !important; 
+  display: block;
 }
 
-.author__avatar img {
-  transform: scale(2.2);      /* Increases zoom (adjust 2.2 up or down as needed) */
-  object-position: center 15%; /* Moves the focus up so your head isn't cut off */
-  object-fit: cover;
-  display: block;
+.author__avatar img, .author__avatar a img, .sidebar .author__avatar img {
+  transform: scale(2.2) !important;    /* Increased zoom */
+  object-position: center 15% !important; /* Focuses on your face */
+  object-fit: cover !important;
+  transition: none !important; /* Disables animations during testing */
 }
