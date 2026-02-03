@@ -41,3 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom Profile Image Zoom */
+.author__avatar img {
+  transform: scale(1.4); /* Increase this number to zoom in more */
+  object-fit: cover;
+}
+
+.author__avatar {
+  overflow: hidden; /* Keeps the zoom contained within the circle/square */
+}
