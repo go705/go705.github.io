@@ -25,7 +25,7 @@ var addressPoints = [
     -157.855676
   ],
   [
-    "Advances in Continuous-Variable Quantum Networks<br />National Tsing Hua University, Department of Physics; Hsinchu, Taiwan",
+    "Continuous-variable Photonic Quantum Informaion Processing<br />National Tsing Hua University, Department of Physics; Hsinchu, Taiwan",
     24.8066333,
     120.9686833
   ],
