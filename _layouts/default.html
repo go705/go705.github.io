@@ -34,11 +34,8 @@ layout: compress
 
 {% include masthead.html %}
 
-<div style="width: 100%; position: relative; pointer-events: none; z-index: -1;">
-  <img src="/images/Group_image.jpeg" 
-       style="display: block; 
+<div style="position: absolute; width: 90%; top: 80px; left: 0; pointer-events: none; z-index: 0; overflow: hidden;">
+  <img src="{{ '/images/Group_image.jpeg' | relative_url }}" 
+        style="display: block; 
               margin: 0 auto; 
-              width: 60%; 
-              opacity: 0.1; 
-              padding-top: 40px;">
-</div>
+              width: 70%; 
