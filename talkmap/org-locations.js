@@ -5,17 +5,17 @@ var addressPoints = [
     -157.855676
   ],
   [
-    "Continuous-variable Photonic Quantum Informaion Processing<br />National Yang Ming Chiao Tung University, Department of Photonics; Hsinchu, Taiwan",
+    "Continuous-Variable Photonic Quantum Information Processing<br />National Yang Ming Chiao Tung University, Department of Photonics; Hsinchu, Taiwan",
     24.8066333,
     120.9686833
   ],
   [
-    "Continuous-variable Photonic Quantum Informaion Processing<br />Academia Sinica, Institute of Atomic and Molecular Sciences; Taipei, Taiwan",
+    "Continuous-Variable Photonic Quantum Information Processing<br />Academia Sinica, Institute of Atomic and Molecular Sciences; Taipei, Taiwan",
     25.0375198,
     121.5636796
   ],
   [
-    "Continuous-variable Photonic Quantum Informaion Processing<br />Hon Hai Research Institute; Zoom",
+    "Continuous-Variable Photonic Quantum Information Processing<br />Hon Hai Research Institute; Zoom",
     37.3329622,
     -121.8950563
   ],
@@ -25,7 +25,7 @@ var addressPoints = [
     -157.855676
   ],
   [
-    "Continuous-variable Photonic Quantum Informaion Processing<br />National Tsing Hua University, Department of Physics; Hsinchu, Taiwan",
+    "Continuous-Variable Photonic Quantum Information Processing<br />National Tsing Hua University, Department of Physics; Hsinchu, Taiwan",
     24.8066333,
     120.9686833
   ],
