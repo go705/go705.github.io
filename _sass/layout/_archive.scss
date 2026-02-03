@@ -2,6 +2,15 @@
    ARCHIVE
    ========================================================================== */
 
+.page__title {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), 
+                    url('/images/Group_image.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 2em;
+  border-radius: 10px;
+}
+
 .archive {
   margin-bottom: 2em;
 
