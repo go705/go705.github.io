@@ -16,6 +16,14 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
+    <div style="position: absolute; width: 100%; top: 80px; left: 0; pointer-events: none; z-index: 0; overflow: hidden;">
+      <img src="{{ '/images/Group_image.jpeg' | relative_url }}" 
+           style="display: block; 
+                  margin: 0 auto; 
+                  width: 70%; 
+                  opacity: 0.05;"> 
+    </div>
+
     {{ content }}
 
     <div class="page__footer">
@@ -29,13 +37,3 @@ layout: compress
 
   </body>
 </html>
-
-
-
-    {% include masthead.html %}
-
-    <div style="position: absolute; width: 100%; top: 80px; left: 0; pointer-events: none; z-index: 0; overflow: hidden;">
-      <img src="{{ '/images/Group_image.jpeg' | relative_url }}" 
-           style="display: block; 
-                  margin: 0 auto; 
-                  width: 70%; 
