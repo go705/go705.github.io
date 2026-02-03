@@ -2,7 +2,7 @@
 title: "ECE470/PHYS460: Physical Optics"
 collection: teaching
 type: Course
-permalink: /teaching/qis/
+permalink: /teaching/Phys/
 venue: "UHM, ECE and PHYS"
 date: 2026-01-12
 location: "Honolulu, HI"
