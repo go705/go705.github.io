@@ -31,7 +31,7 @@ Work experience
   * Research area: Optical neural network, quantum network, machine learning
   * Supervisor: Dirk Englund
 
-* 2018-2022: Research Assiociate
+* 2018-2022: Research Associate
   * The University of Arizona
   * Department: Materials Science and Engineering
   * Research area: Continuous-variable Photonic Quantum Information Processing
@@ -88,3 +88,6 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+
+[**Download CV as PDF**](https://go705.github.io/assets/files/AP_Bo-Han-Wu CV.pdf){: .btn .btn--info}
