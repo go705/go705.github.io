@@ -1,22 +1,37 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Learning Quantum Systems through Physics-Inspired Artificial Intelligence<br />University of Hawai\u02bbi at M\u0101noa, Department of Mathematics; Honolulu, HI, USA",
+    21.304547,
+    -157.855676
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Continuous-variable Photonic Quantum Informaion Processing<br />National Yang Ming Chiao Tung University, Department of Photonics; Hsinchu, Taiwan",
+    24.8066333,
+    120.9686833
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Continuous-variable Photonic Quantum Informaion Processing<br />Academia Sinica, Institute of Atomic and Molecular Sciences; Taipei, Taiwan",
+    25.0375198,
+    121.5636796
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Continuous-variable Photonic Quantum Informaion Processing<br />Hon Hai Research Institute; Zoom",
+    37.3329622,
+    -121.8950563
+  ],
+  [
+    "Learning Quantum Systems through Physics-Inspired Artificial Intelligence<br />University of Hawai\u02bbi at M\u0101noa, Department of Physics & Astronomy; Honolulu, HI, USA",
+    21.304547,
+    -157.855676
+  ],
+  [
+    "Advances in Continuous-Variable Quantum Networks<br />National Tsing Hua University, Department of Physics; Hsinchu, Taiwan",
+    24.8066333,
+    120.9686833
+  ],
+  [
+    "Learning Quantum Systems through Physics-Inspired Artificial Intelligence<br />University of Hawai\u02bbi at M\u0101noa, Department of Electrical and Computer Engineering; Honolulu, HI, USA",
+    21.304547,
+    -157.855676
   ]
 ];
