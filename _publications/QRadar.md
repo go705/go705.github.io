@@ -1,5 +1,5 @@
 ---
-title: "Entanglement-assisted multi-aperture pulse-compression radar for angle resolving detection"
+title: "Entanglement-Assisted Multi-aperture Pulse-Compression Radar for Angle Resolving Detection"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-05-16-entanglement-assisted-radar-angle-detection

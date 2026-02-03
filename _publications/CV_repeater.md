@@ -1,5 +1,5 @@
 ---
-title: "Continuous-variable quantum repeaters based on bosonic error-correction and teleportation: architecture and applications"
+title: "Continuous-Variable Quantum Repeaters Based on Bosonic Error-Correction and Teleportation: Architecture and Applications"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-09-14-cv-quantum-repeaters-bosonic-qec

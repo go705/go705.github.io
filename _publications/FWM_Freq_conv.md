@@ -1,5 +1,5 @@
 ---
-title: "High conversion efficiency in resonant four-wave mixing processes"
+title: "High Conversion Efficiency in Resonant Four-Wave Mixing Processes"
 collection: publications
 category: manuscripts
 permalink: /publication/2016-01-25-high-conversion-efficiency-resonant-fwm

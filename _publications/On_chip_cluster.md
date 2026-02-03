@@ -1,5 +1,5 @@
 ---
-title: "Quantum computing with multidimensional continuous-variable cluster states in a scalable photonic platform"
+title: "Quantum Computing with Multidimensional Continuous-Variable Cluster States in a Scalable Photonic Platform"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-05-01-quantum-computing-multidimensional-cv-cluster-states

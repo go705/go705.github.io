@@ -1,5 +1,5 @@
 ---
-title: "Broadband coherent optical memory based on electromagnetically induced transparency"
+title: "Broadband Coherent Pptical Memory Based on Electromagnetically Induced Transparency"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-12-07-broadband-coherent-optical-memory-eit
