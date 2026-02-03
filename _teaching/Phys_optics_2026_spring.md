@@ -24,5 +24,5 @@ Explore photon statistics, coherence theory, and the basics of quantum and nonli
 
 ---
 
-### Course Materials
+### Course Syllabus
 <a href="/files/ECE_470_Syllabus.pdf" target="_blank" class="btn btn--info">Download Syllabus (PDF)</a>

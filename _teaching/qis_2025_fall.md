@@ -25,5 +25,5 @@ Implementing quantum algorithms to gain communication security (e.g., quantum ke
 
 ---
 
-### Course Materials
+### Course Syllabus
 <a href="/files/ECE_491D_693D_Syllabus.pdf" target="_blank" class="btn btn--info">Download Syllabus (PDF)</a>
