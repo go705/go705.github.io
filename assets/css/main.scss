@@ -42,12 +42,15 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Custom Profile Image Zoom */
-.author__avatar img {
-  transform: scale(1.4); /* Increase this number to zoom in more */
-  object-fit: cover;
-}
+/* --- Custom Profile Image Zoom --- */
 
 .author__avatar {
-  overflow: hidden; /* Keeps the zoom contained within the circle/square */
+  overflow: hidden; /* Crops the image so it doesn't spill out of the sidebar */
+}
+
+.author__avatar img {
+  transform: scale(2.2);      /* Increases zoom (adjust 2.2 up or down as needed) */
+  object-position: center 15%; /* Moves the focus up so your head isn't cut off */
+  object-fit: cover;
+  display: block;
 }
