@@ -37,7 +37,11 @@ Work experience
   * Research area: Continuous-variable Photonic Quantum Information Processing
   * Supervisor: Zheshen Zhang
 
-* 2012-2014: Research Assistant
+* 2017-2018: Teaching Assistant
+  * The University of Arizona
+  * Department: Physics
+
+* 2015-2017: Research Assistant
   * Academia Sinica
   * Department: Institute of Atomic and Molecular Science
   * Research area: Experiment and Theoretical Atomic Physics
