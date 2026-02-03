@@ -17,30 +17,36 @@ Education
 
 Work experience
 ======
-* Spring 2024: Postdoctoral Research Associate
-  * Massaschusetts Institute of Technology
+* Spring 2023: Postdoctoral Research Associate
+  * Massaschusetts Institute of Technology (MIT)
   * Department: EECS (Research Laboratory or Electronics)
   * Research area: Optical neural network, quantum network, machine learning
-  * Supervisor: Dirk Englund
+  * Supervisor: Dirk Englund (MIT)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018: Research Assiociate
+  * The University of Arizona
+  * Department: Physics (Minor: Optical sciences)
+  * Research area: Continuous-variable Photonic Quantum Information Processing
+  * Supervisor: Zheshen Zhang (University of Michigan)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2013: Research Assistant
+  * National Tsing Hua University
+  * Research area: Theoretical Atomic Physics
+  * Supervisor: Ite Yu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantum information theory
+  * Quantum sensing (e.g., quantum radar)
+  * Quantum error correection
+* Machine learning
+  * Quantum machine learning (e.g., variational quantum circuit)
+  * Optical neural network
+* Classical 
+* Experimental optics
+  * Free-space optics (e.g., optical cavity cavity locking)
+  * Integrated photonics (e.g., fabrication and characterization)
+  * FET simulation
 
 Publications
 ======
