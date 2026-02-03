@@ -51,7 +51,7 @@
 }
 
 .author__avatar img, .author__avatar a img, .sidebar .author__avatar img {
-  transform: scale(2.2) !important;    /* Increased zoom */
+  transform: scale(1.3) !important;    /* Increased zoom */
   object-position: center 15% !important; /* Focuses on your face */
   object-fit: cover !important;
   transition: none !important; /* Disables animations during testing */
