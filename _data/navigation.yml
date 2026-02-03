@@ -11,9 +11,6 @@ main:
   - title: "About PI"
     url: /cv/
 
-  - title: "Projects"
-    url: /projects/
-
   - title: "Publications"
     url: /publications/
 
