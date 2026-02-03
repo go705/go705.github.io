@@ -16,13 +16,13 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <div style="width: 100%; position: relative; pointer-events: none; z-index: -1;">
+    <div style="position: absolute; width: 100%; top: 80px; left: 0; pointer-events: none; z-index: 0; overflow: hidden;">
       <img src="{{ '/images/Group_image.jpg' | relative_url }}" 
            style="display: block; 
                   margin: 0 auto; 
-                  width: 80%; 
-                  opacity: 0.15; 
-                  padding-top: 20px;">
+                  width: 70%; 
+                  opacity: 0.08; 
+                  filter: grayscale(100%);">
     </div>
 
     {{ content }}
