@@ -10,4 +10,4 @@ collection: portfolio
 ### Research Interests
 * All Optics Quantum Machine Learning
 * Photonic Quantum Information Theory
-* On-chip optical squeezing
+* On-Chip Optical Squeezing
