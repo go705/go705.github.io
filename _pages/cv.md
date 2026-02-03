@@ -40,16 +40,16 @@ Work experience
 Skills
 ======
 * Quantum information theory
-  * Quantum sensing (e.g., quantum radar)
+  * Quantum sensing (e.g., quantum radar, distributed sensor network)
   * Quantum error correection
+  * Quantum optics
 * Machine learning
   * Quantum machine learning (e.g., variational quantum circuit)
   * Optical neural network
-* Classical 
-* Experimental optics
+* Photonics experiment
   * Free-space optics (e.g., optical cavity cavity locking)
   * Integrated photonics (e.g., fabrication and characterization)
-  * FET simulation
+  * FET simulation (e.g., COMSOL)
 
 Publications
 ======
