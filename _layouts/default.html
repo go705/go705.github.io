@@ -17,12 +17,12 @@ layout: compress
     {% include masthead.html %}
 
     <div style="width: 100%; position: relative; pointer-events: none; z-index: -1;">
-      <img src="/images/Group_image.jpg" 
+      <img src="{{ '/images/Group_image.jpg' | relative_url }}" 
            style="display: block; 
                   margin: 0 auto; 
-                  width: 60%; 
-                  opacity: 0.1; 
-                  padding-top: 40px;">
+                  width: 80%; 
+                  opacity: 0.15; 
+                  padding-top: 20px;">
     </div>
 
     {{ content }}
