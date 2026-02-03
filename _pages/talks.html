@@ -6,11 +6,35 @@ author_profile: true
 ---
 
 {% if site.talkmap_link == true %}
-
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% comment %} Group all talks by their title string {% endcomment %}
+{% assign talks_by_title = site.talks | group_by: "title" %}
+
+{% for group in talks_by_title %}
+  <div class="list__item" style="margin-bottom: 2em;">
+    {% comment %} Display the Shared Title once {% endcomment %}
+    <h2 class="archive__item-title" style="border-bottom: 1px solid #ccc; padding-bottom: 5px;">
+      {{ group.name }}
+    </h2>
+    
+    <ul style="list-style-type: none; margin-left: 0;">
+      {% comment %} Sort items within the group by date descending {% endcomment %}
+      {% assign sorted_items = group.items | sort: 'date' | reverse %}
+      
+      {% for talk in sorted_items %}
+        <li style="margin-bottom: 1em;">
+          <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <strong>{{ talk.date | date: "%B %d, %Y" }}</strong> <br>
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ talk.venue }}, {{ talk.location }}
+          
+          {% if talk.excerpt %}
+            <div class="archive__item-excerpt" style="font-size: 0.9em; margin-top: 5px; color: #555;">
+              {{ talk.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 {% endfor %}
