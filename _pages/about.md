@@ -22,6 +22,8 @@ Below is a detailed summary of our current project directions.
 <div style="text-align: center; margin-top: 20px;">
   <object data="{{ site.baseurl }}/assets/images/CVQNN.pdf" type="application/pdf" width="100%" height="900px">
     <p>Your browser does not support embedded PDFs. 
+      <a href="{{ site.baseurl }}/assets/images/CVQNN.pdf">Click here to download the PDF version.</a>
+    </p>
   </object>
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
     Figure: Overview of Resonant Four-Wave Mixing Processes and Lab Goals.
