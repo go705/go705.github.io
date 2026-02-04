@@ -36,7 +36,7 @@ Below is a detailed summary of our current project directions.
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="{{ site.baseurl }}/assets/images/Remote_Ent.jpeg" alt="Featured Research Overview" style="width: 50%; border: none;">
+  <img src="{{ site.baseurl }}/assets/images/Remote_Ent.jpeg" alt="Featured Research Overview" style="width: 65%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
     Figure 3: Scheme of long-haul entanglement generation.
   </p>
