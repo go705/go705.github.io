@@ -22,7 +22,7 @@ We specialize in four key research pillars:
 Below is a detailed summary of our current project directions.
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="{{ site.baseurl }}/assets/images/CVQNN.jpeg" alt="Featured Research Overview" style="width: 100%; border: none;">
+  <img src="{{ site.baseurl }}/assets/images/CVQNN.jpeg" alt="Featured Research Overview" style="width: 90%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
     Figure 1: Scheme of continuous-varialbe quantu neural network (CVQNN).
   </p>
