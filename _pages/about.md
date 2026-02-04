@@ -20,11 +20,7 @@ Currently, we are exploring:
 Below is a detailed summary of our current project directions.
 
 <div style="text-align: center; margin-top: 20px;">
-  <object data="{{ site.baseurl }}/assets/images/CVQNN.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="900px">
-    <p>Your browser does not support embedded PDFs. 
-      <a href="{{ site.baseurl }}/assets/images/CVQNN.pdf">View the PDF here.</a>
-    </p>
-  </object>
+  <img src="{{ site.baseurl }}/assets/images/CVQNN.jpeg" alt="Featured Research Overview" style="width: 100%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
     Figure: Overview of Resonant Four-Wave Mixing Processes and Lab Goals.
   </p>
