@@ -1,6 +1,7 @@
 ---
 title: "My Testimony: Finding the Answer to My Life"
 layout: single
+date: 2026-02-04
 categories:
   - Testimony
 ---
