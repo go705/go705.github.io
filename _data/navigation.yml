@@ -22,6 +22,9 @@ main:
     
   - title: "Team members"
     url: /portfolio/
+
+  - title: "Join us"
+    url: /join/
         
   - title: "Faith & Life"
     url: /year-archive/

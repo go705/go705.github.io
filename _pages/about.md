@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Front page"
+title: "Lab Mission"
 author_profile: true
 redirect_from: 
   - /about/
