@@ -3,7 +3,7 @@ title: "Testimony: God’s Guidance in My Marriage"
 layout: single
 date: 2026-02-01
 categories:
-  - Testimony
+  - testimony
 permalink: /testimony/marriage-guidance/
 ---
 
