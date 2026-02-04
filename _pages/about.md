@@ -11,10 +11,10 @@ The **Quantum AI Laboratory (QuAiL)** is a multidisciplinary research group work
 
 We specialize in four key research thrusts:
 
-* **Continuous-Variable Quantum Neural Networks (CV-QNN):** We develop algorithms to optimize circuits and Variational Quantum Classifiers (VQC) specifically for continuous-variable (CV) and hybrid CV-discrete-variable (CV-DV) quantum systems to generate non-trivial quantum states. *(Theory)*
-* **Intelligent Distributed Quantum Sensing:** We investigate spatially distributed, entangled quantum sensor networks capable of analog computing. Our work focuses on capturing and utilizing complex quantum correlations through quantum intelligent sensor network (QISN) architectures. *(60% Theory / 40% Experiment)*
-* **High-Speed Quantum Networks:** We design and analyze midpoint source protocols to enable long-distance entanglement distribution with high-speed performance. *(Theory)*
-* **On-Chip Optical Squeezing:** We drive the full lifecycle of photonic hardware—from design and tape-out (fabrication) to characterization and analysis of on-chip optical squeezers. *(100% Experiment)*
+* **Continuous-Variable Quantum Neural Networks (CV-QNN):** We develop algorithms to optimize circuits and Variational Quantum Classifiers (VQC) specifically for continuous-variable (CV) and hybrid CV-discrete-variable (CV-DV) quantum systems to generate non-trivial quantum states. *<u>(Theory)</u>*
+* **Intelligent Distributed Quantum Sensing:** We investigate spatially distributed, entangled quantum sensor networks capable of analog computing. Our work focuses on capturing and utilizing complex quantum correlations through quantum intelligent sensor network (QISN) architectures. *<u>(60% Theory / 40% Experiment</u>)*
+* **High-Speed Quantum Networks:** We design and analyze midpoint source protocols to enable long-distance entanglement distribution with high-speed performance. *<u>(Theory)</u>*
+* **On-Chip Optical Squeezing:** We drive the full lifecycle of photonic hardware—from design and tape-out (fabrication) to characterization and analysis of on-chip optical squeezers. <u>(Experiment)</u>*
 
 ---
 
@@ -43,7 +43,7 @@ Below is a detailed summary of our current project directions.
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="{{ site.baseurl }}/assets/images/On_sqz.jpeg" alt="Featured Research Overview" style="width: 75%; border: none;">
+  <img src="{{ site.baseurl }}/assets/images/On_sqz.jpeg" alt="Featured Research Overview" style="width: 85%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
     Figure 4: Rough sketch of the on-chip squeezing experiment layout.
   </p>
