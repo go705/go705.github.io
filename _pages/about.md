@@ -24,7 +24,7 @@ We specialize in four key research thrusts:
 <div style="text-align: center; margin-top: 20px; margin-bottom: 70px;">
   <img src="{{ site.baseurl }}/assets/images/MiRP.jpeg" alt="Featured Research Overview" style="width: 80%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
-    Figure 2: Scheme of quantum intelligent sensor network (IQSN).
+    Figure 2: Scheme of quantum intelligent sensor network (IQSN). (a) Overal architecture of IQSN. (b) Layout of quantum sensor (microring resonator).
   </p>
 </div>
 
