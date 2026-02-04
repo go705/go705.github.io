@@ -1,10 +1,10 @@
 ---
-title: "Testimony: God’s Guidance in My Marriage"
+title: "God’s Guidance in My Marriage"
 layout: single
 date: 2022-02-01
 categories:
   - testimony
-permalink: /testimony/marriage-guidance/
+permalink: /posts/testimony/marriage-guidance/
 ---
 
 
