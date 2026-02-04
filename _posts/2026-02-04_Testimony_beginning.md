@@ -1,9 +1,10 @@
 ---
-title: "My Testimony: Finding the Answer to My Life"
+title: "Testimony: God’s Guidance in My Marriage"
 layout: single
 date: 2026-02-04
 categories:
   - Testimony
+permalink: /testimony/answers/
 ---
 
 # Finding the Answer to My Life: My Journey to Knowing God

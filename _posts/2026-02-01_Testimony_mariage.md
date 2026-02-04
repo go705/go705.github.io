@@ -1,10 +1,12 @@
 ---
 title: "Testimony: God’s Guidance in My Marriage"
 layout: single
-permalink: /testimony/marriage-guidance/
+date: 2026-02-04
 categories:
   - Testimony
+permalink: /testimony/marriage-guidance/
 ---
+
 
 # God’s Guidance in My Marriage: Learning to Trust Him
 
