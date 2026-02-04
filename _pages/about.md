@@ -25,6 +25,20 @@ Below is a detailed summary of our current project directions.
     Figure: Overview of Resonant Four-Wave Mixing Processes and Lab Goals.
   </p>
 </div>
+
+<div style="text-align: center; margin-top: 20px;">
+  <img src="{{ site.baseurl }}/assets/images/MiRP.jpeg" alt="Featured Research Overview" style="width: 100%; border: none;">
+  <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
+    Figure: Overview of Resonant Four-Wave Mixing Processes and Lab Goals.
+  </p>
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
+  <img src="{{ site.baseurl }}/assets/images/Remote_Ent.jpeg" alt="Featured Research Overview" style="width: 100%; border: none;">
+  <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
+    Figure: Overview of Resonant Four-Wave Mixing Processes and Lab Goals.
+  </p>
+</div>
 ---
 
 
