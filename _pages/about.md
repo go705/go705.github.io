@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-The **Quantum AI Laboratory (QuAiL)** focuses on the intersection of quantum optics, photonics, and machine learning. Our mission is to leverage resonant light-matter interactions and advanced computational techniques to develop high-efficiency quantum frequency conversion and optical information processing systems.
+The **Quantum AI Laboratory (QuAiL)** at the [University of Hawaiʻi at Mānoa](https://go705.github.io/) is a multidisciplinary research group working at the frontier of quantum information science, machine learning and optics. Our mission is to bridge the gap between theoretical innovation and experimental realization, developing the next generation of photonic quantum technologies.
 
-Currently, we are exploring:
-* **High-efficiency Four-Wave Mixing:** Optimizing conversion efficiency using spatially varied control fields.
-* **Quantum Neural Networks:** Implementing machine learning architectures using photonic platforms.
-* **Resonant Light-Matter Interaction:** Studying cold atoms and EIT-based systems for quantum memory.
+We specialize in four key research pillars:
+
+* **Continuous-Variable Quantum Neural Networks (CV-QNN):** We develop algorithms to optimize circuits and Variational Quantum Classifiers (VQC) specifically for continuous-variable (CV) and hybrid CV-discrete-variable (CV-DV) quantum systems to generate non-trivial quantum states. **(Theory)**
+* **Intelligent Distributed Quantum Sensing:** We investigate spatially distributed, entangled quantum sensor networks capable of analog computing. Our work focuses on capturing and utilizing complex quantum correlations through quantum intelligent sensor network (QISN) architectures. **(60% Theory / 40% Experiment)**
+* **High-Speed Quantum Networks:** We design and analyze midpoint source protocols to enable long-distance entanglement distribution with high-speed performance. **(Theory)**
+* **On-Chip Optical Squeezing:** We drive the full lifecycle of photonic hardware—from design and tape-out (fabrication) to characterization and analysis of on-chip optical squeezers. **(100% Experiment)**
 
 ---
 
@@ -22,21 +24,21 @@ Below is a detailed summary of our current project directions.
 <div style="text-align: center; margin-top: 20px;">
   <img src="{{ site.baseurl }}/assets/images/CVQNN.jpeg" alt="Featured Research Overview" style="width: 100%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
-    Figure: Overview of Resonant Four-Wave Mixing Processes and Lab Goals.
+    Figure 1: Scheme of continuous-varialbe quantu neural network (CVQNN).
   </p>
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
   <img src="{{ site.baseurl }}/assets/images/MiRP.jpeg" alt="Featured Research Overview" style="width: 100%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
-    Figure: Overview of Resonant Four-Wave Mixing Processes and Lab Goals.
+    Figure 2: Scheme of quantum intelligent sensor network (IQSN).
   </p>
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="{{ site.baseurl }}/assets/images/Remote_Ent.jpeg" alt="Featured Research Overview" style="width: 75%; border: none;">
+  <img src="{{ site.baseurl }}/assets/images/Remote_Ent.jpeg" alt="Featured Research Overview" style="width: 50%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
-    Figure: Overview of Resonant Four-Wave Mixing Processes and Lab Goals.
+    Figure 3: Scheme of long-haul entanglement generation.
   </p>
 </div>
 ---
