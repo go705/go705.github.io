@@ -2,9 +2,11 @@
 title: "God’s Guidance in My Marriage"
 layout: single
 date: 2022-02-01
-categories:
-  - testimony
-permalink: /posts/testimony/marriage-guidance/
+permalink: /posts/2014/08/blog-post-3/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
 

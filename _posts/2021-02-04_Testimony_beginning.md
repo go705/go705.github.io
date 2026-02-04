@@ -1,10 +1,12 @@
 ---
-title: "Testimony: God’s Guidance in My Marriage"
+title: "God’s Guidance in My Marriage"
 layout: single
 date: 2021-02-04
-categories:
-  - testimony
-permalink: /testimony/beginning/
+permalink: /posts/2014/08/blog-post-3/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
 # Finding the Answer to My Life: My Journey to Knowing God
