@@ -36,7 +36,7 @@ We specialize in four key research thrusts:
   </p>
 </div>
 
-* **On-Chip Optical Squeezing:** We drive the full lifecycle of photonic hardware—from design and tape-out (or fabrication) to characterization and analysis of on-chip optical squeezers, see Figure 4. *<u>(Experiment)</u>*
+* **On-Chip Optical Squeezing:** We drive the full lifecycle of photonic hardware, from design and tape-out (or fabrication) to characterization and analysis of on-chip optical squeezers. Figure 4 shows the layout of on-chip squeezing testbed. *<u>(Experiment)</u>*
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="{{ site.baseurl }}/assets/images/On_sqz.jpeg" alt="Featured Research Overview" style="width: 65%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
