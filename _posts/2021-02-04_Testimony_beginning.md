@@ -4,7 +4,7 @@ layout: single
 date: 2021-02-04
 categories:
   - testimony
-permalink: /testimony/answers/
+permalink: /testimony/beginning/
 ---
 
 # Finding the Answer to My Life: My Journey to Knowing God
