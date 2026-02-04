@@ -11,10 +11,10 @@ The **Quantum AI Laboratory (QuAiL)** at the [University of Hawaiʻi at Mānoa](
 
 We specialize in four key research pillars:
 
-* **Continuous-Variable Quantum Neural Networks (CV-QNN):** We develop algorithms to optimize circuits and Variational Quantum Classifiers (VQC) specifically for continuous-variable (CV) and hybrid CV-discrete-variable (CV-DV) quantum systems to generate non-trivial quantum states. **(Theory)**
-* **Intelligent Distributed Quantum Sensing:** We investigate spatially distributed, entangled quantum sensor networks capable of analog computing. Our work focuses on capturing and utilizing complex quantum correlations through quantum intelligent sensor network (QISN) architectures. **(60% Theory / 40% Experiment)**
-* **High-Speed Quantum Networks:** We design and analyze midpoint source protocols to enable long-distance entanglement distribution with high-speed performance. **(Theory)**
-* **On-Chip Optical Squeezing:** We drive the full lifecycle of photonic hardware—from design and tape-out (fabrication) to characterization and analysis of on-chip optical squeezers. **(100% Experiment)**
+* **Continuous-Variable Quantum Neural Networks (CV-QNN):** We develop algorithms to optimize circuits and Variational Quantum Classifiers (VQC) specifically for continuous-variable (CV) and hybrid CV-discrete-variable (CV-DV) quantum systems to generate non-trivial quantum states. *(Theory)*
+* **Intelligent Distributed Quantum Sensing:** We investigate spatially distributed, entangled quantum sensor networks capable of analog computing. Our work focuses on capturing and utilizing complex quantum correlations through quantum intelligent sensor network (QISN) architectures. *(60% Theory / 40% Experiment)*
+* **High-Speed Quantum Networks:** We design and analyze midpoint source protocols to enable long-distance entanglement distribution with high-speed performance. *(Theory)*
+* **On-Chip Optical Squeezing:** We drive the full lifecycle of photonic hardware—from design and tape-out (fabrication) to characterization and analysis of on-chip optical squeezers. *(100% Experiment)*
 
 ---
 
