@@ -16,7 +16,7 @@ We specialize in four key research thrusts:
 <div style="text-align: center; margin-top: 20px; margin-bottom: 70px;">
   <img src="{{ site.baseurl }}/assets/images/CVQNN.jpeg" alt="Featured Research Overview" style="width: 70%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
-    Figure 1: Scheme of continuous-varialbe quantu neural network (CVQNN).
+    Figure 1: Scheme of continuous-varialbe quantu neural network (CV-QNN).
   </p>
 </div>
 
