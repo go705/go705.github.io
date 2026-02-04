@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-The **Quantum AI Laboratory (QuAiL)** at the [University of Hawaiʻi at Mānoa](https://go705.github.io/) is a multidisciplinary research group working at the frontier of quantum information science, machine learning and optics. Our mission is to bridge the gap between theoretical innovation and experimental realization, developing the next generation of photonic quantum technologies.
+The **Quantum AI Laboratory (QuAiL)** is a multidisciplinary research group working at the frontier of quantum information science, machine learning and photonics. Our mission is to bridge the gap between theoretical innovation and experimental realization, developing the next generation of photonic quantum technologies.
 
-We specialize in four key research pillars:
+We specialize in four key research thrusts:
 
 * **Continuous-Variable Quantum Neural Networks (CV-QNN):** We develop algorithms to optimize circuits and Variational Quantum Classifiers (VQC) specifically for continuous-variable (CV) and hybrid CV-discrete-variable (CV-DV) quantum systems to generate non-trivial quantum states. *(Theory)*
 * **Intelligent Distributed Quantum Sensing:** We investigate spatially distributed, entangled quantum sensor networks capable of analog computing. Our work focuses on capturing and utilizing complex quantum correlations through quantum intelligent sensor network (QISN) architectures. *(60% Theory / 40% Experiment)*
@@ -39,6 +39,13 @@ Below is a detailed summary of our current project directions.
   <img src="{{ site.baseurl }}/assets/images/Remote_Ent.jpeg" alt="Featured Research Overview" style="width: 65%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
     Figure 3: Scheme of long-haul entanglement generation.
+  </p>
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
+  <img src="{{ site.baseurl }}/assets/images/On_sqz.jpeg" alt="Featured Research Overview" style="width: 75%; border: none;">
+  <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
+    Figure 4: Rough sketch of the on-chip squeezing experiment layout.
   </p>
 </div>
 ---
