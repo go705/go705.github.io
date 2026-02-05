@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-The **Quantum AI Laboratory (QuAIL)** is a multidisciplinary research group working at the frontier of quantum information science, machine learning and photonics. Our mission is to bridge the gap between theoretical innovation and experimental realization, developing the next generation of photonic quantum technologies.
+The Quantum AI Laboratory (QuAIL) is a multidisciplinary research group working at the frontier of quantum information science, machine learning and photonics. Our mission is to bridge the gap between theoretical innovation and experimental realization, developing the next generation of photonic quantum technologies.
 
 We specialize in four key research thrusts:
 ---
@@ -24,7 +24,7 @@ We specialize in four key research thrusts:
 <div style="text-align: center; margin-top: 20px; margin-bottom: 70px;">
   <img src="{{ site.baseurl }}/assets/images/MiRP.jpeg" alt="Featured Research Overview" style="width: 85%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
-    Figure 2: Scheme of quantum intelligent sensor network (IQSN). (a) Overal architecture of IQSN. (b) Layout of quantum sensor (microring resonator).
+    Figure 2: Scheme of quantum intelligent sensor network (IQSN). (a) Overal architecture of IQSN. (b) Layout of quantum sensor (microring resonator). MiRP: microring perceptron.
   </p>
 </div>
 
