@@ -16,7 +16,7 @@ We specialize in four key research thrusts:
 <div style="text-align: center; margin-top: 20px; margin-bottom: 70px;">
   <img src="{{ site.baseurl }}/assets/images/CVQNN.jpeg" alt="Featured Research Overview" style="width: 70%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
-    Figure 1: Scheme of continuous-varialbe quantum neural network (CV-QNN) [1].
+    Figure 1: Scheme of continuous-variable quantum neural network (CV-QNN) [1].
   </p>
 </div>
 
@@ -26,13 +26,13 @@ We specialize in four key research thrusts:
 
 * **Intelligent Distributed Quantum Sensing:** We investigate spatially distributed, entangled quantum sensor networks [2] capable of analog computing. Taking the advantage of machine learning optimization [3], our work focuses on capturing and utilizing complex quantum correlations through quantum intelligent sensor network (QISN) architectures, see Figure 2. *<u>(60% Theory / 40% Experiment</u>)*
 <div style="text-align: center; margin-top: 20px; margin-bottom: 70px;">
-  <img src="{{ site.baseurl }}/assets/images/MiRP.jpeg" alt="Featured Research Overview" style="width: 85%; border: none;">
+  <img src="{{ site.baseurl }}/assets/images/MiRP.jpeg" alt="Featured Research Overview" style="width: 75%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
-    Figure 2: Scheme of quantum intelligent sensor network (IQSN). (a) Overal architecture of IQSN. (b) Layout of quantum sensor (microring resonator). MiRP: microring perceptron [2]. PSA: phase sensitive amplifier.
+    Figure 2: Scheme of quantum intelligent sensor network (QISN). (a) Overal architecture of QISN. (b) Layout of quantum sensor (microring resonator). MiRP: microring perceptron [2]. PSA: phase sensitive amplifier.
   </p>
 </div>
-<div style="font-size: 0.85em; margin-bottom: 70px;">
-  [[2] Yi, X., et al. "Demonstration of a Reconfigurable Entangled Radio-Frequency Photonic Sensor Network." PhysRevLett.124.150502](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.150502)
+<div style="font-size: 0.85em; margin-bottom: 70px; line-height: 1.5;">
+  [[2] Yi, X., et al. "Demonstration of a Reconfigurable Entangled Radio-Frequency Photonic Sensor Network." PhysRevLett.124.150502](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.150502)<br>
   [[3] Wu, B.-H., et al. "Micro-Ring Perceptron Sensor for High-Speed, Low-Power Radio-Frequency Signal." arXiv:2504.16119](https://arxiv.org/abs/2504.16119)
 </div>
 
