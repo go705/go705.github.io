@@ -46,7 +46,7 @@ We specialize in four key research thrusts:
 </div>
 
 <div style="font-size: 0.85em; margin-bottom: 70px;">
-  [[4] Wu, B.-H., et al. "Continuous-variable quantum repeaters based on bosonic error-correction and teleportation: architecture and applications." Quantum Sci. Technol. 7 025018](https://iopscience.iop.org/article/10.1088/2058-9565/ac4f6b/meta)
+  <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ac4f6b/meta" target="_blank" style="color: #003366; text-decoration: none;">[4] Wu, B.-H., et al. "Continuous-variable quantum repeaters based on bosonic error-correction and teleportation: architecture and applications." Quantum Sci. Technol. 7 025018.</a>
 </div>
 
 * **On-Chip Optical Squeezing:** We drive the full lifecycle of photonic hardware, from design and tape-out (or fabrication) to characterization and analysis of on-chip optical squeezers. Figure 4 shows the layout of on-chip squeezing testbed. *<u>(Experiment)</u>*
@@ -58,7 +58,7 @@ We specialize in four key research thrusts:
 </div>
 
 <div style="font-size: 0.85em; margin-bottom: 70px;">
-  [[5] Liu, S., et al. "Wafer-Scale Squeezed-Light Chips." arXiv:2509.10445](https://arxiv.org/abs/2509.10445)
+  <a href="https://arxiv.org/abs/2509.10445" target="_blank" style="color: #003366; text-decoration: none;">[5] Liu, S., et al. "Wafer-Scale Squeezed-Light Chips." arXiv:2509.10445.</a>
 </div>
 
 ---
