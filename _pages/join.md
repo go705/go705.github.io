@@ -33,7 +33,7 @@ If you are interested in joining QuAiL, please contact **PI Bo-Han Wu** directly
 * **Brief Statement:** A short paragraph (3-5 sentences) explaining why you are interested in our lab and how your background aligns with our **Research Thrusts**.
 * **Transcripts:** (For student applicants only) Unofficial copies are acceptable.
 
-**Email:** "mailto:bohanwu@hawaii.edu"
+**Email:** [bohanwu@hawaii.edu](mailto:bohanwu@hawaii.edu)
 
 ---
 
