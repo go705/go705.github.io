@@ -32,6 +32,10 @@ author:
   employer         : "University of Hawaiʻi at Mānoa"
   uri              : #"https://ece.hawaii.edu/home/"
   email            : "bohanwu@hawaii.edu" 
+  links:
+    - label: "bohanwu@hawaii.edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:bohanwu@hawaii.edu"
 
   # Academic websites
   academia         : # URL
