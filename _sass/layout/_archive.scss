@@ -1,62 +1,46 @@
 /* ==========================================================================
-   ARCHIVE
+   ARCHIVE - TOTAL ALIGNMENT FIX
    ========================================================================== */
 
 .page__title {
-  /* Reduced opacity to 0.3 for a clearer image */
   background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), 
                     url('/assets/images/Group_image.jpeg');
   background-size: cover;
   background-position: center;
   
-  /* Matches width of the content below */
-  width: 100%;
+  /* Forces the banner to ignore the container's side padding */
+  width: 100% !important; 
   height: 200px;        
   display: flex;         
   align-items: center;   
   justify-content: flex-start; 
   
   padding: 2em;
-  border-radius: 0;      /* Removed border radius so it aligns perfectly with broad edges */
-  overflow: hidden;      
-  margin-bottom: 2em;
+  border-radius: 0;      
+  margin: 0 0 2em 0 !important;
 }
 
-   
 .archive {
-  margin-bottom: 2em;
-  width: 100%;          /* Force full width */
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  float: none !important; /* This stops the sidebar from "squeezing" the text */
 
   @include breakpoint($medium) {
     @include span(12 of 12);
   }
 
   @include breakpoint($large) {
-    /* UPDATED: Changed from 10 of 12 to 12 of 12 to make it as broad as the image */
-    @include span(12 of 12 last);
-    @include prefix(0);  /* Removed the 0.5 prefix that was squeezing the text */
-  }
-
-  a {
-    text-decoration: underline;
-
-    &:hover {
-      text-decoration: underline;
-
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
-    }
+    @include span(12 of 12); 
+    @include prefix(0);
+    @include suffix(0);
   }
 }
 
-/* Ensure the content container doesn't have hidden constraints */
-.page__content {
-  width: 100%;
-  max-width: 100%;
-
-  .archive__item-title {
-    margin-top: 1em;
-    border-bottom: none;
-  }
+/* This targets the actual text area to make sure it doesn't have internal margins */
+.page__inner-wrap {
+  width: 100% !important;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
 }
