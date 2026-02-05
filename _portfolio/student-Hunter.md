@@ -1,6 +1,6 @@
 ---
 title: "Hunter Muench"
-excerpt: "Ph.D. Student <br/><img src='/images/Hunter.jpeg' width='140' alt='Student Name'>"
+excerpt: "Ph.D. Student <br/><img src='/images/Hunter.jpeg' width='170' alt='Student Name'>"
 collection: portfolio
 ---
 
