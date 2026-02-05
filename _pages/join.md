@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-The Quantum AI Laboratory (QuAIL) is always looking for motivated, creative, and hardworking individuals to join our team in Honolulu. We are an interdisciplinary group working at the intersection of quantum optics, photonics, and machine learning (both theory and experiment0).
+The **Quantum AI Laboratory (QuAIL)** is always looking for motivated, creative, and hardworking individuals to join our team in Honolulu. We are an interdisciplinary group working at the intersection of quantum optics, photonics, and machine learning (both theory and experiment).
 
 ---
 
@@ -26,11 +26,11 @@ Motivated UHM undergraduates interested in gaining hands-on experience with quan
 ---
 
 ## How to Apply
-If you are interested in joining QuAiL, please contact PI Bo-Han Wu directly via email. To help us process your inquiry, please include the following:
+If you are interested in joining QuAIL, please contact PI Bo-Han Wu directly via email. To help us process your inquiry, please include the following:
 
 * **Subject Line:** [Prospective Student/Postdoc] - Your Name
 * **Curriculum Vitae (CV):** Including your research experience and publication list (if any).
-* **Brief Statement:** A short paragraph (3-5 sentences) explaining why you are interested in our lab and how your background aligns with our **Research Thrusts**.
+* **Brief Statement:** A short paragraph (3-5 sentences) explaining why you are interested in our lab and how your background aligns with our *Research Thrusts*.
 * **Transcripts:** (For student applicants only) Unofficial copies are acceptable.
 
 **Email:** [bohanwu@hawaii.edu](mailto:bohanwu@hawaii.edu)
