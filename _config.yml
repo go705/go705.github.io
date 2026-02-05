@@ -30,12 +30,7 @@ author:
   bio              : "I am a photonic quantum information scientist leveraging machine learning to advance quantum optics and networking."
   location         : "Honolulu, HI"
   employer         : "University of Hawaiʻi at Mānoa"
-  uri              : #"https://ece.hawaii.edu/home/"
-  email            : "bohanwu@hawaii.edu" 
-  links:
-    - label: "bohanwu@hawaii.edu"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:bohanwu@hawaii.edu"
+  uri              : "https://ece.hawaii.edu/home/"
 
   # Academic websites
   academia         : # URL
