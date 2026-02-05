@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-The **Quantum AI Laboratory (QuAiL)** is a multidisciplinary research group working at the frontier of quantum information science, machine learning and photonics. Our mission is to bridge the gap between theoretical innovation and experimental realization, developing the next generation of photonic quantum technologies.
+The **Quantum AI Laboratory (QuAIL)** is a multidisciplinary research group working at the frontier of quantum information science, machine learning and photonics. Our mission is to bridge the gap between theoretical innovation and experimental realization, developing the next generation of photonic quantum technologies.
 
 We specialize in four key research thrusts:
 ---
