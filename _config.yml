@@ -23,16 +23,15 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  name             : "PI: Bo-Han Wu"
+  # Biographic information
   avatar           : "Bio-photo_BH_1.jpeg"
+  name             : "PI: Bo-Han Wu"
+  pronouns         : "He/Him/His" # example: "she/her"  
   bio              : "I am a photonic quantum information scientist leveraging machine learning to advance quantum optics and networking."
   location         : "Honolulu, HI"
   employer         : "University of Hawaiʻi at Mānoa"
-  email            : "bohanwu@hawaii.edu"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:bohanwu@hawaii.edu"
+  uri              : #"https://ece.hawaii.edu/home/"
+  email            : "bohanwu@hawaii.edu" 
 
   # Academic websites
   academia         : # URL
