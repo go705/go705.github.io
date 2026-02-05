@@ -31,9 +31,10 @@ We specialize in four key research thrusts:
     Figure 2: Scheme of quantum intelligent sensor network (QISN). (a) Overal architecture of QISN. (b) Layout of quantum sensor (microring resonator). MiRP: microring perceptron [2]. PSA: phase sensitive amplifier.
   </p>
 </div>
-<div style="font-size: 0.85em; margin-bottom: 70px; line-height: 1.5;">
-  [[2] Yi, X., et al. "Demonstration of a Reconfigurable Entangled Radio-Frequency Photonic Sensor Network." PhysRevLett.124.150502](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.150502)<br>
-  [[3] Wu, B.-H., et al. "Micro-Ring Perceptron Sensor for High-Speed, Low-Power Radio-Frequency Signal." arXiv:2504.16119](https://arxiv.org/abs/2504.16119)
+
+<div style="font-size: 0.85em; margin-bottom: 70px; line-height: 1.6;">
+  [[2] Yi, X., et al. "Demonstration of a Reconfigurable Entangled Radio-Frequency Photonic Sensor Network." Phys. Rev. Lett. 124, 150502 (2020).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.150502)<br>
+  [[3] Wu, B.-H., et al. "Micro-Ring Perceptron Sensor for High-Speed, Low-Power Radio-Frequency Signal." arXiv:2504.16119.](https://arxiv.org/abs/2504.16119)
 </div>
 
 * **High-Speed Quantum Networks:** We design and analyze midpoint source protocols to enable long-distance entanglement distribution with high-speed performance, see Figure 3. *<u>(Theory)</u>*
@@ -43,10 +44,10 @@ We specialize in four key research thrusts:
     Figure 3: Scheme of long-haul entanglement generation [4].
   </p>
 </div>
+
 <div style="font-size: 0.85em; margin-bottom: 70px;">
   [[4] Wu, B.-H., et al. "Continuous-variable quantum repeaters based on bosonic error-correction and teleportation: architecture and applications." Quantum Sci. Technol. 7 025018](https://iopscience.iop.org/article/10.1088/2058-9565/ac4f6b/meta)
 </div>
-
 
 * **On-Chip Optical Squeezing:** We drive the full lifecycle of photonic hardware, from design and tape-out (or fabrication) to characterization and analysis of on-chip optical squeezers. Figure 4 shows the layout of on-chip squeezing testbed. *<u>(Experiment)</u>*
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
@@ -55,6 +56,7 @@ We specialize in four key research thrusts:
     Figure 4: Rough sketch of the on-chip squeezing experiment layout [5].
   </p>
 </div>
+
 <div style="font-size: 0.85em; margin-bottom: 70px;">
   [[5] Liu, S., et al. "Wafer-Scale Squeezed-Light Chips." arXiv:2509.10445](https://arxiv.org/abs/2509.10445)
 </div>
