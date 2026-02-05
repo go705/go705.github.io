@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="width: 100%; max-width: 100%; display: block; clear: both;">
 
 The **Quantum AI Laboratory (QuAIL)** is a multidisciplinary research group working at the frontier of quantum information science, machine learning and photonics. Our mission is to bridge the gap between theoretical innovation and experimental realization, developing the next generation of photonic quantum technologies.
 
@@ -60,8 +61,9 @@ We specialize in four key research thrusts:
 <div style="font-size: 0.85em; margin-bottom: 70px;">
   <a href="https://arxiv.org/abs/2509.10445" target="_blank" style="color: #003366; text-decoration: none;">[5] Liu, S., et al. "Wafer-Scale Squeezed-Light Chips." arXiv:2509.10445 (2025).</a>
 </div>
-
 ---
 
 
 **Join us:** We are always looking for motivated students and collaborators. Please visit the [Join Us](/join) page for more information.
+
+</div>
