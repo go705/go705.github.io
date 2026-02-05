@@ -30,7 +30,8 @@ author:
   bio              : "I am a photonic quantum information scientist leveraging machine learning to advance quantum optics and networking."
   location         : "Honolulu, HI"
   employer         : "University of Hawaiʻi at Mānoa"
-  uri              : "https://ece.hawaii.edu/home/"
+  uri              : #"https://ece.hawaii.edu/home/"
+  email            : "bohanwu@hawaii.edu" 
 
   # Academic websites
   academia         : # URL
@@ -148,9 +149,9 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: Person
+  links:
+    - "mailto:bohanwu@hawaii.edu" # Add this line!
 
 
 # Analytics
