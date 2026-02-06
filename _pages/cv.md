@@ -42,7 +42,7 @@ Work experience
 * 2015-2017: Research Assistant
   * Academia Sinica
   * Department: Institute of Atomic and Molecular Science
-  * Research area: experiment and theoretical atomic physics
+  * Research area: experimental and theoretical atomic physics
   * Supervisor: Ying-Cheng Chen
 
 * 2012-2014: Research Assistant
