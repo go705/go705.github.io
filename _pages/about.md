@@ -37,11 +37,11 @@ We specialize in four key research thrusts:
   <a href="https://arxiv.org/abs/2504.16119" target="_blank" style="color: #003366; text-decoration: none;">[3] Wu, B.-H., et al. "Micro-Ring Perceptron Sensor for High-Speed, Low-Power Radio-Frequency Signal." arXiv:2504.16119 (2025).</a>
 </div>
 
-* **High-Speed Quantum Networks:** We design and analyze midpoint source protocols to enable long-distance entanglement distribution with high-speed performance, see Figure 3. *<u>(Theory)</u>*
+* **High-Speed Quantum Networks:** We design and analyze midpoint source protocols to enable long-distance entanglement distribution with high-speed performance, see Figure 3. We had some preliminary results in CV quantum repeater [4]. *<u>(Theory)</u>*
 <div style="text-align: center; margin-top: 20px; margin-bottom: 70px;">
   <img src="{{ site.baseurl }}/assets/images/Remote_Ent.jpeg" alt="Featured Research Overview" style="width: 55%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
-    Figure 3: Scheme of long-haul entanglement generation [4].
+    Figure 3: Scheme of long-haul entanglement generation.
   </p>
 </div>
 
