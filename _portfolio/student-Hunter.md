@@ -5,7 +5,8 @@ collection: portfolio
 ---
 
 ### Education
-* **B.E. in Electrical Engineering and Computer Science**, University of Michigan, 2025
+* **M.S.E. in Electrical Engineering and Computer Science**, University of Michigan, 2025
+* **B.S.E. in Electrical Engineering and Computer Science**, University of Michigan, 2024
 
 ### Research Interests
 * All Optics Quantum Machine Learning
