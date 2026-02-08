@@ -21,7 +21,7 @@ We specialize in four key research thrusts:
 </div>
 
 <div style="font-size: 0.85em; margin-bottom: 70px;">
-  <a href="https://doi.org/10.1103/PhysRevResearch.1.033063" target="_blank" style="color: #003366; text-decoration: none;">[1] Killoran, N., et al. "Continuous-variable quantum neural networks." Phys. Rev. Research 1, 033063 (2019).</a>
+  <a href="https://doi.org/10.1103/PhysRevResearch.1.033063" target="_blank" style="color: #003366; text-decoration: none;">[1] Killoran, N., et al. "Continuous-variable quantum neural networks." Phys. Rev. Research 1, 033063 (2019).</a><br>
   <a href="https://iopscience.iop.org/article/10.1088/2058-9565/aaf59e" target="_blank" style="color: #003366; text-decoration: none;">[2] Arrazola, J. M., et al. "Machine learning method for state preparation and gate synthesis on photonic quantum computers." Quantum Sci. Technol. 4 024004 (2019).</a>
 </div>
 
