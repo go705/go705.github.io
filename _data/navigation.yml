@@ -26,11 +26,14 @@ main:
   - title: "Join us"
     url: /join/
         
+  - title: "News"
+    url: /news/
+
   - title: "Faith & Life"
     url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "CV"
+    url: /cv-json/
     
   # - title: "Guide"
   #   url: /markdown/
