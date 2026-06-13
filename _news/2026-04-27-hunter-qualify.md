@@ -3,7 +3,6 @@ title: "Hunter Passed His Ph.D. Qualifying Exam"
 date: 2026-04-27
 ---
 
-![Hunter after passing his Ph.D. qualifying exam]
 *Hunter after successfully passing his Ph.D. qualifying exam.*
 
 We are delighted to congratulate **Hunter** on successfully passing his Ph.D. qualifying exam.
