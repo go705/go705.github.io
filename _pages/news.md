@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Updates from QuAiL, including publications, grants, awards, invited talks, student achievements, and laboratory milestones.
+Updates from QuAIL, including publications, grants, awards, invited talks, student achievements, and laboratory milestones.
 
 {% assign news_items = site.news | sort: "date" | reverse %}
 
