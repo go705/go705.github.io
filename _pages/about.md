@@ -38,7 +38,7 @@ We specialize in four key research thrusts:
   <a href="https://arxiv.org/abs/2504.16119" target="_blank" style="color: #003366; text-decoration: none;">[4] Wu, B.-H., et al. "Micro-Ring Perceptron Sensor for High-Speed, Low-Power Radio-Frequency Signal." arXiv:2504.16119 (2025).</a>
 </div>
 
-* **High-Speed Quantum Networks:** We design and analyze midpoint source protocols to enable long-distance entanglement distribution with high-speed performance, see Figure 3. We had some preliminary results in CV quantum repeater [5]. *<u>(Theory)</u>*
+* **High-Speed Quantum Networks:** We design and analyze midpoint source protocols to enable long-distance entanglement distribution with high-speed performance, see Figure 3. We had some preliminary results in CV quantum repeater [5,6]. *<u>(Theory)</u>*
 <div style="text-align: center; margin-top: 20px; margin-bottom: 70px;">
   <img src="{{ site.baseurl }}/assets/images/Remote_Ent.jpeg" alt="Featured Research Overview" style="width: 55%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
@@ -50,17 +50,30 @@ We specialize in four key research thrusts:
   <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ac4f6b/meta" target="_blank" style="color: #003366; text-decoration: none;">[5] Wu, B.-H., et al. "Continuous-variable quantum repeaters based on bosonic error-correction and teleportation: architecture and applications." Quantum Sci. Technol. 7, 025018 (2022).</a>
 </div>
 
-* **On-Chip Optical Squeezing:** We drive the full lifecycle of photonic hardware, from design and tape-out (or fabrication) to characterization and analysis of on-chip optical squeezers. Figure 4 shows the layout of on-chip squeezing testbed. *<u>(Experiment)</u>*
+<div style="font-size: 0.85em; margin-bottom: 70px;">
+  <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ac4f6b/meta" target="_blank" style="color: #003366; text-decoration: none;">[5] Beukers, H. K., et al. "Remote-entanglement protocols for stationary qubits with photonic interfaces." PRX Quantum, 5(1), 010202.</a>
+</div>
+
+* **On-Chip Optical Squeezing:** We drive the full lifecycle of photonic hardware, from design and tape-out (or fabrication) to characterization and analysis of on-chip optical squeezers. Figure 4 shows the layout of on-chip squeezing testbed [7,8,9]. *<u>(Experiment)</u>*
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="{{ site.baseurl }}/assets/images/On_sqz.jpeg" alt="Featured Research Overview" style="width: 65%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
-    Figure 4: Rough sketch of the on-chip squeezing experiment layout [6].
+    Figure 4: Rough sketch of the on-chip squeezing experiment layout [7].
   </p>
 </div>
 
 <div style="font-size: 0.85em; margin-bottom: 70px;">
-  <a href="https://arxiv.org/abs/2509.10445" target="_blank" style="color: #003366; text-decoration: none;">[6] Liu, S., et al. "Wafer-Scale Squeezed-Light Chips." arXiv:2509.10445 (2025).</a>
+  <a href="https://arxiv.org/abs/2509.10445" target="_blank" style="color: #003366; text-decoration: none;">[7] Liu, S., et al. "Wafer-Scale Squeezed-Light Chips." arXiv:2509.10445 (2025).</a>
 </div>
+
+<div style="font-size: 0.85em; margin-bottom: 70px;">
+  <a href="https://arxiv.org/abs/2509.10445" target="_blank" style="color: #003366; text-decoration: none;">[8] Ren, X., Kopparapu., et al. "Quantum squeezing in an all-resonant periodically poled lithium niobate microresonator." arXiv:2602.22693 (2026).</a>
+</div>
+
+<div style="font-size: 0.85em; margin-bottom: 70px;">
+  <a href="https://arxiv.org/abs/2509.10445" target="_blank" style="color: #003366; text-decoration: none;">[9] Karnik, T. S., et al. "18-dB on-chip vacuum squeezing in an adaptively poled lithium niobate waveguide." arXiv:2605.27607 (2026).</a>
+</div>
+
 
 ---
 
