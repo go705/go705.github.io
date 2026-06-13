@@ -1,6 +1,6 @@
 ---
 title: "Hunter Passed His Ph.D. Qualifying Exam"
-date: 2026-06-13
+date: 2026-04-27
 ---
 
 ![Hunter after passing his Ph.D. qualifying exam]
