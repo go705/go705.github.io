@@ -1,7 +1,7 @@
 ---
 title: "NSF Awards $600K Grant for Quantum Intelligent Sensor Networks"
 date: 2026-05-29
-excerpt: 'NSF awarded a 3-year, $600,000 grant to support QuAiL research on Quantum Intelligent Sensor Networks. Read more via UH News and LinkedIn.'
+excerpt: 'NSF awarded a 3-year, $600,000 grant to support QuAIL research on Quantum Intelligent Sensor Networks. Read more via UH News and LinkedIn.'
 ---
 
 We are excited to announce that the National Science Foundation (NSF) has awarded a 3-year, $600,000 grant to support a new research project on **Quantum Intelligent Sensor Networks (QISN)** in our group.
