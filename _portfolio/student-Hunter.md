@@ -9,6 +9,6 @@ collection: portfolio
 * **B.S.E. in Electrical Engineering and Computer Science**, University of Michigan, 2024
 
 ### Research Interests
-* All Optics Quantum Machine Learning
-* Photonic Quantum Information Theory
-* On-Chip Optical Squeezing
+* Continuous-variable quantum machine learning
+* Distributed quantum sensing
+* On-chip optical squeezing
