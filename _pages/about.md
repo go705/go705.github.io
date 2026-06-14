@@ -48,9 +48,6 @@ We specialize in four key research thrusts:
 
 <div style="font-size: 0.85em; margin-bottom: 70px;">
   <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ac4f6b/meta" target="_blank" style="color: #003366; text-decoration: none;">[5] Wu, B.-H., et al. "Continuous-variable quantum repeaters based on bosonic error-correction and teleportation: architecture and applications." Quantum Sci. Technol. 7, 025018 (2022).</a>
-</div>
-
-<div style="font-size: 0.85em; margin-bottom: 70px;">
   <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ac4f6b/meta" target="_blank" style="color: #003366; text-decoration: none;">[5] Beukers, H. K., et al. "Remote-entanglement protocols for stationary qubits with photonic interfaces." PRX Quantum, 5(1), 010202.</a>
 </div>
 
@@ -64,16 +61,9 @@ We specialize in four key research thrusts:
 
 <div style="font-size: 0.85em; margin-bottom: 70px;">
   <a href="https://arxiv.org/abs/2509.10445" target="_blank" style="color: #003366; text-decoration: none;">[7] Liu, S., et al. "Wafer-Scale Squeezed-Light Chips." arXiv:2509.10445 (2025).</a>
-</div>
-
-<div style="font-size: 0.85em; margin-bottom: 70px;">
   <a href="https://arxiv.org/abs/2509.10445" target="_blank" style="color: #003366; text-decoration: none;">[8] Ren, X., Kopparapu., et al. "Quantum squeezing in an all-resonant periodically poled lithium niobate microresonator." arXiv:2602.22693 (2026).</a>
-</div>
-
-<div style="font-size: 0.85em; margin-bottom: 70px;">
   <a href="https://arxiv.org/abs/2509.10445" target="_blank" style="color: #003366; text-decoration: none;">[9] Karnik, T. S., et al. "18-dB on-chip vacuum squeezing in an adaptively poled lithium niobate waveguide." arXiv:2605.27607 (2026).</a>
 </div>
-
 
 ---
 
