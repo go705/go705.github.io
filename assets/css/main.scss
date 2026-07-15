@@ -46,19 +46,12 @@
    Custom overrides for blog listing page
    ========================================================================== */
 
-/* 1. Target the exact archive post-item titles */
-.archive__item-title, 
-.archive__item-title a, 
-h2.archive__item-title, 
-h3.archive__item-title a {
-    font-size: 1.2rem !important;
-    font-weight: 600 !important;
-    text-decoration: underline !important;
+.archive__item-title {
+    font-size: 1.1rem !important; /* This explicitly shrinks the title */
 }
 
-/* 2. Catch-all fallback for any post links in main feeds */
-.entries-list a, 
-.list__item a, 
-.post-title a {
-    font-size: 1.2rem !important;
+.archive__item-title a {
+    font-size: 1.1rem !important; /* This shrinks the clickable link inside the title */
+    font-weight: 600 !important;
+    text-decoration: underline !important;
 }
