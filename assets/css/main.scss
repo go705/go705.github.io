@@ -42,12 +42,23 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Force all list titles and headings to be smaller */
-h1 a, h2 a, h3 a, 
-.post-title a, .post-title,
-.post-link, a.post-link,
-main a, #main a {
+/* ==========================================================================
+   Custom overrides for blog listing page
+   ========================================================================== */
+
+/* 1. Target the exact archive post-item titles */
+.archive__item-title, 
+.archive__item-title a, 
+h2.archive__item-title, 
+h3.archive__item-title a {
     font-size: 1.2rem !important;
     font-weight: 600 !important;
     text-decoration: underline !important;
+}
+
+/* 2. Catch-all fallback for any post links in main feeds */
+.entries-list a, 
+.list__item a, 
+.post-title a {
+    font-size: 1.2rem !important;
 }
