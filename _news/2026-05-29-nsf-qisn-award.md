@@ -1,6 +1,7 @@
 ---
 title: "NSF Awards a 3-year $600K Grant for Quantum Intelligent Sensor Networks"
 date: 2026-05-29
+excerpt: ""
 ---
 
 The project combines quantum sensing, integrated photonics, and artificial intelligence to develop adaptive sensor networks capable of detecting weak signals beyond classical limits. This research is in collaboration with **[Hyeongrak ("Chuck") Choi](https://qep.ece.stonybrook.edu/)** at Stony Brook University.

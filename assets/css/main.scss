@@ -41,3 +41,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Make homepage blog titles smaller and cleaner */
+h2 a, .post-link, .post-title a {
+    font-size: 1.5rem !important; /* Adjust this number (e.g., 1.2rem or 1.5rem) to your liking */
+    font-weight: 600 !important;
+    text-decoration: none !important;
+}
