@@ -42,9 +42,12 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Make homepage blog titles smaller and cleaner */
-h2 a, .post-link, .post-title a {
-    font-size: 1.2rem !important; /* Adjust this number (e.g., 1.2rem or 1.5rem) to your liking */
+/* Force all list titles and headings to be smaller */
+h1 a, h2 a, h3 a, 
+.post-title a, .post-title,
+.post-link, a.post-link,
+main a, #main a {
+    font-size: 1.2rem !important;
     font-weight: 600 !important;
-    text-decoration: none !important;
+    text-decoration: underline !important;
 }
