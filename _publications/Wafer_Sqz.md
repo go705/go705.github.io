@@ -7,7 +7,7 @@ excerpt: 'We report the wafer-scale fabrication, generation, and characterizatio
 date: 2025-09-12
 venue: 'arXiv:2509.10445'
 paperurl: 'https://arxiv.org/pdf/2509.10445.pdf'
-citation: 'Shuai Liu, Kailu Zhou, Yuheng Zhang, Abdulkarim Hariri, Nicholas Reynolds, Bo-Han Wu, Zheshen Zhang. (2025). <i>arXiv preprint arXiv:2509.10445</i>.'
+#citation: 'Shuai Liu, Kailu Zhou, Yuheng Zhang, Abdulkarim Hariri, Nicholas Reynolds, Bo-Han Wu, Zheshen Zhang. (2025). <i>arXiv preprint arXiv:2509.10445</i>.'
 ---
 
 ### Abstract

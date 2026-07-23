@@ -7,7 +7,7 @@ excerpt: 'This work demonstrates a scheme for resonant four-wave mixing that ach
 date: 2016-01-25
 venue: 'Optics Express'
 paperurl: 'https://opg.optica.org/oe/fulltext.cfm?uri=oe-24-2-1008'
-citation: 'Chin-Yuan Lee, Bo-Han Wu, Gang Wang, Yong-Fang Chen, Ying-Cheng Chen, and Ite A. Yu. (2016). <i>Optics Express</i>. 24(2), 1008-1016.'
+#citation: 'Chin-Yuan Lee, Bo-Han Wu, Gang Wang, Yong-Fang Chen, Ying-Cheng Chen, and Ite A. Yu. (2016). <i>Optics Express</i>. 24(2), 1008-1016.'
 ---
 
 In this work, we propose and demonstrate a new scheme of resonant four-wave mixing (FWM) for frequency up- or down-conversion. By utilizing spatially varied control fields, we convert a probe field into a signal field with high efficiency. We show that the efficiency of probe-to-signal energy conversion can reach 90% at a medium optical depth of approximately 100. This scheme is flexible, working for both continuous-wave and pulsed light.
