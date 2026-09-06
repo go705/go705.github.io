@@ -29,7 +29,7 @@ We specialize in four key research thrusts:
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="{{ site.baseurl }}/assets/images/On_sqz.jpeg" alt="Featured Research Overview" style="width: 65%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
-    Figure 2: Rough sketch of the on-chip squeezing experiment layout [7].
+    Figure 2: Rough sketch of the on-chip squeezing experiment layout [3].
   </p>
 </div>
 
