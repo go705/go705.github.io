@@ -16,6 +16,8 @@ Education
 * B.S. in Electrophysics
   * National Chiao Tung University (Taiwan), 2011
 
+<p style="margin-top: 1rem;"><a href="{{ site.baseurl }}/files/cv.pdf" class="btn btn--primary btn--small"><i class="fas fa-file-pdf"></i> View Full CV (PDF)</a></p>
+
 Work experience
 ======
 * 2025-Present: Assistant Professor
