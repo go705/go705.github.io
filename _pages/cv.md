@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics (minor: optical sciences)
+* Ph.D in Physics (minor: Optical sciences)
   * The University of Arizona (USA), 2022
 * M.S. in Physics
   * National Tsing Hua University (Taiwan), 2014
