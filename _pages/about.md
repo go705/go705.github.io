@@ -12,7 +12,7 @@ The **Quantum AI Laboratory (QuAIL)** is a multidisciplinary research group work
 We specialize in four key research thrusts:
 ---
 
-* **Intelligent Distributed Quantum Sensing:** We investigate spatially distributed, entangled quantum sensor networks [1] capable of analog computing. Taking the advantage of machine learning optimization [2], our work focuses on capturing and utilizing complex quantum correlations through quantum intelligent sensor network (QISN) architectures, see Figure 1. *<u>(60% Theory / 40% Experiment</u>)* [NSF FET award](https://www.hawaii.edu/news/2026/05/29/nsf-grant-quantum-research/)
+* **Quantum Intelligent Sensor Network:** We investigate spatially distributed, entangled quantum sensor networks [1] capable of analog computing. Taking the advantage of machine learning optimization [2], our work focuses on capturing and utilizing complex quantum correlations through quantum intelligent sensor network (QISN) architectures, see Figure 1. *<u>(60% Theory / 40% Experiment</u>)* [NSF FET award](https://www.hawaii.edu/news/2026/05/29/nsf-grant-quantum-research/)
 <div style="text-align: center; margin-top: 20px; margin-bottom: 70px;">
   <img src="{{ site.baseurl }}/assets/images/MiRP.jpeg" alt="Featured Research Overview" style="width: 75%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
