@@ -12,13 +12,14 @@ The **Quantum AI Laboratory (QuAIL)** is a multidisciplinary research group work
 We specialize in four key research thrusts:
 ---
 
-* **Quantum Intelligent Sensor Network:** We investigate spatially distributed, entangled quantum sensor networks [1] capable of analog computing. Taking the advantage of machine learning optimization [2], our work focuses on capturing and utilizing complex quantum correlations through quantum intelligent sensor network (QISN) architectures, see Figure 1. *<u>(60% Theory / 40% Experiment</u>)* [NSF FET award](https://www.hawaii.edu/news/2026/05/29/nsf-grant-quantum-research/)
+* **Quantum Intelligent Sensor Network:** We investigate spatially distributed, entangled quantum sensor networks [1] capable of analog computing. Taking the advantage of machine learning optimization [2], our work focuses on capturing and utilizing complex quantum correlations through quantum intelligent sensor network (QISN) architectures, see Figure 1. *<u>(60% Theory / 40% Experiment</u>)*
 <div style="text-align: center; margin-top: 20px; margin-bottom: 70px;">
   <img src="{{ site.baseurl }}/assets/images/MiRP.jpeg" alt="Featured Research Overview" style="width: 75%; border: none;">
   <p style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 10px;">
     Figure 1: Scheme of quantum intelligent sensor network (QISN). (a) Overal architecture of QISN. (b) Layout of quantum sensor (microring resonator). MiRP: microring perceptron [1]. PSA: phase sensitive amplifier.
   </p>
 </div>
+[UH News: NSF Award](https://www.hawaii.edu/news/2026/05/29/nsf-grant-quantum-research/)
 
 <div style="font-size: 0.85em; margin-bottom: 70px; line-height: 1.6;">
   <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.150502" target="_blank" style="color: #003366; text-decoration: none;">[1] Yi, X., et al. "Demonstration of a Reconfigurable Entangled Radio-Frequency Photonic Sensor Network." Phys. Rev. Lett. 124, 150502 (2020).</a><br>
