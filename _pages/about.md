@@ -20,6 +20,8 @@ We specialize in four key research thrusts:
   </p>
 </div>
 
+[UH News: NSF grant supports UH quantum research](https://www.hawaii.edu/news/2026/05/29/nsf-grant-quantum-research/)
+
 <div style="font-size: 0.85em; margin-bottom: 70px; line-height: 1.6;">
   <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.150502" target="_blank" style="color: #003366; text-decoration: none;">[1] Yi, X., et al. "Demonstration of a Reconfigurable Entangled Radio-Frequency Photonic Sensor Network." Phys. Rev. Lett. 124, 150502 (2020).</a><br>
   <a href="https://arxiv.org/abs/2504.16119" target="_blank" style="color: #003366; text-decoration: none;">[2] Wu, B.-H., et al. "Micro-Ring Perceptron Sensor for High-Speed, Low-Power Radio-Frequency Signal." arXiv:2504.16119 (2025).</a>
