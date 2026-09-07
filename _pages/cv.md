@@ -16,7 +16,7 @@ Education
 * B.S. in Electrophysics
   * National Chiao Tung University (Taiwan), 2011
 
-<p style="margin-top: 1rem;"><a href="{{ site.baseurl }}/assets/Bo-Han-Wu CV.pdf" class="btn btn--primary btn--small"><i class="fas fa-file-pdf"></i>View CV (PDF)</a></p>
+<p style="margin-top: 1rem;"><a href="{{ site.baseurl }}/assets/AP Bo-Han-Wu CV.pdf" class="btn btn--primary btn--small"><i class="fas fa-file-pdf"></i>View CV (PDF)</a></p>
 
 Work experience
 ======
